@@ -1,3 +1,10 @@
+/**
+ * @file mainwindow.h
+ * @brief 主界面
+ * @author songmouling
+ * @date 2017-4-10
+ */
+
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
