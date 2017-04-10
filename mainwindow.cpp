@@ -1,4 +1,4 @@
-#include "mainwindow.h"
+﻿#include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include <QMessageBox>
 
@@ -18,5 +18,5 @@ void MainWindow::on_pushButton_clicked()
 {
     QMessageBox::information(this,"Hello","Hello World");
     QMessageBox::information(this,"Hello","Begin my github");
-    QMessageBox::information(this,"Hello",QString::fromLocal8Bit("合作愉快"));
+    QMessageBox::information(this,"Hello",QString::fromLocal8Bit("NiHao"));
 }
