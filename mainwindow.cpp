@@ -18,5 +18,5 @@ void MainWindow::on_pushButton_clicked()
 {
     QMessageBox::information(this,"Hello","Hello World");
     QMessageBox::information(this,"Hello","Begin my github");
-    QMessageBox::information(this,"Hello",QString::fromLocal8Bit("NiHao"));
+    QMessageBox::information(this,"Hello",QString::fromLocal8Bit("NiHaoA"));
 }
